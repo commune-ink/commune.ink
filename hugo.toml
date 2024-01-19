@@ -1,3 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://commune.ink/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Commune'
+theme = 'maddybook'
+
+[permalinks]
+    post = '/:filename/'
+
+[params]
+    author = 'Madison Scott-Clary'
+    home = 'https://makyo.ink'
+    copyright = 2021
+    customCSS = ['commune.css']
+
+[markup.goldmark.renderer]
+    unsafe = true
