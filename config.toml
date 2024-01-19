@@ -10,7 +10,7 @@ theme = 'maddybook'
     author = 'Madison Scott-Clary'
     home = 'https://makyo.ink'
     copyright = 2021
-    customCSS = ['commune.css']
+    customCSS = ['/css/commune.css']
 
 [markup.goldmark.renderer]
     unsafe = true
