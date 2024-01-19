@@ -1,4 +1,4 @@
 ---
 ---
 
-<!--* [*Making Time for Peace*](/making-time-for-peace)-->
+* [*Making Time for Peace*](/making-time-for-peace)
